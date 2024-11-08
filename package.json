@@ -1,0 +1,14 @@
+{
+  "name": "circom-playground",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "snarkjs": "^0.7.5"
+  }
+}
